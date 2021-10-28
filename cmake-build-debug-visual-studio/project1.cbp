@@ -8,33 +8,33 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/james/cs236/236Project3/cmake-build-debug-visual-studio"/>
+				<Option working_dir="C:/Users/james/cs260/236Project3git/cmake-build-debug-visual-studio"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\Makefile VERBOSE=1 all"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/james/cs236/236Project3/cmake-build-debug-visual-studio"/>
+				<Option working_dir="C:/Users/james/cs260/236Project3git/cmake-build-debug-visual-studio"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\Makefile VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="project1">
-				<Option output="C:/Users/james/cs236/236Project3/cmake-build-debug-visual-studio/project1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/james/cs236/236Project3/cmake-build-debug-visual-studio"/>
+				<Option output="C:/Users/james/cs260/236Project3git/cmake-build-debug-visual-studio/project1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/james/cs260/236Project3git/cmake-build-debug-visual-studio"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
 				<Compiler>
-					<Add directory="C:/Users/james/cs236/236Project3/."/>
+					<Add directory="C:/Users/james/cs260/236Project3git/."/>
 					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
@@ -44,20 +44,20 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\Makefile VERBOSE=1 project1"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\Makefile VERBOSE=1 project1"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="project1/fast">
-				<Option output="C:/Users/james/cs236/236Project3/cmake-build-debug-visual-studio/project1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/james/cs236/236Project3/cmake-build-debug-visual-studio"/>
+				<Option output="C:/Users/james/cs260/236Project3git/cmake-build-debug-visual-studio/project1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/james/cs260/236Project3git/cmake-build-debug-visual-studio"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
 				<Compiler>
-					<Add directory="C:/Users/james/cs236/236Project3/."/>
+					<Add directory="C:/Users/james/cs260/236Project3git/."/>
 					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
@@ -67,216 +67,216 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\Makefile VERBOSE=1 project1/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\Makefile VERBOSE=1 project1/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/james/cs236/236Project3/cmake-build-debug-visual-studio"/>
+				<Option working_dir="C:/Users/james/cs260/236Project3git/cmake-build-debug-visual-studio"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\Makefile VERBOSE=1 edit_cache"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/james/cs236/236Project3/AddAutomaton.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/AddAutomaton.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/AddAutomaton.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/AddAutomaton.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Automaton.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Automaton.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/BlockCommentAutomata.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/BlockCommentAutomata.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/BlockCommentAutomata.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/BlockCommentAutomata.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/ColonAutomaton.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/ColonAutomaton.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/ColonAutomaton.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/ColonAutomaton.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/ColonDashAutomaton.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/ColonDashAutomaton.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/ColonDashAutomaton.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/ColonDashAutomaton.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/CommaAutomaton.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/CommaAutomaton.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/CommaAutomaton.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/CommaAutomaton.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/CommentAutomaton.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/CommentAutomaton.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/CommentAutomaton.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/CommentAutomaton.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Database.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Database.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Database.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Database.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/DatalogProgram.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/DatalogProgram.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/DatalogProgram.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/DatalogProgram.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/FactsAutomaton.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/FactsAutomaton.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/FactsAutomaton.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/FactsAutomaton.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Header.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Header.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Header.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Header.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/IDAutomaton.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/IDAutomaton.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/IDAutomaton.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/IDAutomaton.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Interpreter.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Interpreter.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Interpreter.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Interpreter.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/InvalidStringAutomaton.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/InvalidStringAutomaton.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/InvalidStringAutomaton.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/InvalidStringAutomaton.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/LeftParenAutomaton.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/LeftParenAutomaton.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/LeftParenAutomaton.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/LeftParenAutomaton.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Lexer.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Lexer.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Lexer.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Lexer.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/MultiplyAutomaton.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/MultiplyAutomaton.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/MultiplyAutomaton.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/MultiplyAutomaton.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Parameter.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Parameter.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Parameter.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Parameter.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Parser.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Parser.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Parser.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Parser.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/PeriodAutomaton.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/PeriodAutomaton.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/PeriodAutomaton.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/PeriodAutomaton.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Predicate.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Predicate.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Predicate.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Predicate.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/QMarkAutomaton.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/QMarkAutomaton.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/QMarkAutomaton.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/QMarkAutomaton.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Queries.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Queries.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Queries.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Queries.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Relation.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Relation.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Relation.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Relation.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/RightParenAutomaton.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/RightParenAutomaton.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/RightParenAutomaton.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/RightParenAutomaton.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Rule.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Rule.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Rule.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Rule.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/RulesAutomaton.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/RulesAutomaton.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/RulesAutomaton.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/RulesAutomaton.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/STRINGAUTOMATON.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/STRINGAUTOMATON.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/STRINGAUTOMATON.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/STRINGAUTOMATON.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Token.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Token.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Token.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Token.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Tuple.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Tuple.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/Tuple.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/Tuple.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/invalidComment.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/invalidComment.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/invalidComment.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/invalidComment.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/main.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/main.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/schemesAutomaton.cpp">
+		<Unit filename="C:/Users/james/cs260/236Project3git/schemesAutomaton.cpp">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/schemesAutomaton.h">
+		<Unit filename="C:/Users/james/cs260/236Project3git/schemesAutomaton.h">
 			<Option target="project1"/>
 		</Unit>
-		<Unit filename="C:/Users/james/cs236/236Project3/CMakeLists.txt">
+		<Unit filename="C:/Users/james/cs260/236Project3git/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

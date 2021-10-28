@@ -6,5 +6,5 @@ CXX_FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd   -std:c++14
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -IC:\Users\james\cs236\236Project3\. 
+CXX_INCLUDES = -IC:\Users\james\cs260\236Project3git\. 
 

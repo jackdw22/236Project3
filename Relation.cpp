@@ -11,11 +11,11 @@ Relation::Relation(std::string name, Header* header) {
 
 std::string Relation::toString() {
     std::string output = "";
-   // std::cout << "in to string" << std::endl;
+    // std::cout << "in to string" << std::endl;
     for (Tuple t : tuples){
-       // std::cout << "in to tuple loop" << std::endl;
-       output += "  ";
-        for (int i = 0; i < header->values.size(); i++){
+        // std::cout << "in to tuple loop" << std::endl;
+        output += "  ";
+        for (int i = 0; i < static_cast<int>(header->values.size()); i++){
             output += header->values.at(i);
             output += "=";
             output += t.values.at(i);
@@ -38,7 +38,7 @@ Relation* Relation::select(Relation *relation, Predicate *&query, int count) {
 
     int index = 0;
     int count2 = count;
-    for (int i = 0; i < query->parameters.size(); i++){
+    for (int i = 0; i < static_cast<int>(query->parameters.size()); i++){
         if (query->parameters.at(i)->isConstant() == true){
             if(count2 > 0){
                 count2--;
@@ -64,19 +64,19 @@ Relation* Relation::selectDuplicates(Relation *relation, Predicate *&query) {
     int index2;
     bool found = false;
     Relation* newRelation = new Relation(relation->name, relation->header);
-    for (int i = 0; i < query->parameters.size(); i++){
+    for (int i = 0; i < static_cast<int>(query->parameters.size()); i++){
         if (query->parameters.at(i)->isConstant() == false){
-            for (int j = i + 1; j <query->parameters.size(); j++){
+            for (int j = i + 1; j <static_cast<int>(query->parameters.size()); j++){
                 if(query->parameters.at(j)->getParameter() == query->parameters.at(i)->getParameter()){
-                  index1 = i;
-                  index2 = j;
-                  found = true;
+                    index1 = i;
+                    index2 = j;
+                    found = true;
                     for (Tuple t : relation->tuples){
                         if (t.values.at(index1) == t.values.at(index2)){
                             newRelation->addTuple(t);
                         }
                     }
-                  break;
+                    break;
                 }
             }
         }

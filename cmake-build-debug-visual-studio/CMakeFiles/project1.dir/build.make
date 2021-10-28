@@ -47,10 +47,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\james\cs236\236Project3
+CMAKE_SOURCE_DIR = C:\Users\james\cs260\236Project3git
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio
+CMAKE_BINARY_DIR = C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio
 
 # Include any dependencies generated for this target.
 include CMakeFiles\project1.dir\depend.make
@@ -63,610 +63,610 @@ include CMakeFiles\project1.dir\flags.make
 
 CMakeFiles\project1.dir\ColonAutomaton.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\ColonAutomaton.cpp.obj: ..\ColonAutomaton.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/project1.dir/ColonAutomaton.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/project1.dir/ColonAutomaton.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\ColonAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\ColonAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\ColonAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\ColonAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\ColonAutomaton.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/ColonAutomaton.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\ColonAutomaton.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\ColonAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\ColonAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\ColonAutomaton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/ColonAutomaton.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\ColonAutomaton.cpp.s /c C:\Users\james\cs236\236Project3\ColonAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\ColonAutomaton.cpp.s /c C:\Users\james\cs260\236Project3git\ColonAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\ColonDashAutomaton.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\ColonDashAutomaton.cpp.obj: ..\ColonDashAutomaton.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/project1.dir/ColonDashAutomaton.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/project1.dir/ColonDashAutomaton.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\ColonDashAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\ColonDashAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\ColonDashAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\ColonDashAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\ColonDashAutomaton.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/ColonDashAutomaton.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\ColonDashAutomaton.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\ColonDashAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\ColonDashAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\ColonDashAutomaton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/ColonDashAutomaton.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\ColonDashAutomaton.cpp.s /c C:\Users\james\cs236\236Project3\ColonDashAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\ColonDashAutomaton.cpp.s /c C:\Users\james\cs260\236Project3git\ColonDashAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\Lexer.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\Lexer.cpp.obj: ..\Lexer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/project1.dir/Lexer.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/project1.dir/Lexer.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Lexer.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\Lexer.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Lexer.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\Lexer.cpp
 <<
 
 CMakeFiles\project1.dir\Lexer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/Lexer.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\Lexer.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\Lexer.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\Lexer.cpp
 <<
 
 CMakeFiles\project1.dir\Lexer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/Lexer.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Lexer.cpp.s /c C:\Users\james\cs236\236Project3\Lexer.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Lexer.cpp.s /c C:\Users\james\cs260\236Project3git\Lexer.cpp
 <<
 
 CMakeFiles\project1.dir\main.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\main.cpp.obj: ..\main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/project1.dir/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/project1.dir/main.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\main.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\main.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\main.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\main.cpp
 <<
 
 CMakeFiles\project1.dir\main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/main.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\main.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\main.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\main.cpp
 <<
 
 CMakeFiles\project1.dir\main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/main.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\main.cpp.s /c C:\Users\james\cs236\236Project3\main.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\main.cpp.s /c C:\Users\james\cs260\236Project3git\main.cpp
 <<
 
 CMakeFiles\project1.dir\Token.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\Token.cpp.obj: ..\Token.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/project1.dir/Token.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/project1.dir/Token.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Token.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\Token.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Token.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\Token.cpp
 <<
 
 CMakeFiles\project1.dir\Token.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/Token.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\Token.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\Token.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\Token.cpp
 <<
 
 CMakeFiles\project1.dir\Token.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/Token.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Token.cpp.s /c C:\Users\james\cs236\236Project3\Token.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Token.cpp.s /c C:\Users\james\cs260\236Project3git\Token.cpp
 <<
 
 CMakeFiles\project1.dir\CommaAutomaton.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\CommaAutomaton.cpp.obj: ..\CommaAutomaton.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/project1.dir/CommaAutomaton.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/project1.dir/CommaAutomaton.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\CommaAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\CommaAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\CommaAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\CommaAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\CommaAutomaton.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/CommaAutomaton.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\CommaAutomaton.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\CommaAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\CommaAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\CommaAutomaton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/CommaAutomaton.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\CommaAutomaton.cpp.s /c C:\Users\james\cs236\236Project3\CommaAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\CommaAutomaton.cpp.s /c C:\Users\james\cs260\236Project3git\CommaAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\PeriodAutomaton.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\PeriodAutomaton.cpp.obj: ..\PeriodAutomaton.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/project1.dir/PeriodAutomaton.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/project1.dir/PeriodAutomaton.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\PeriodAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\PeriodAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\PeriodAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\PeriodAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\PeriodAutomaton.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/PeriodAutomaton.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\PeriodAutomaton.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\PeriodAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\PeriodAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\PeriodAutomaton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/PeriodAutomaton.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\PeriodAutomaton.cpp.s /c C:\Users\james\cs236\236Project3\PeriodAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\PeriodAutomaton.cpp.s /c C:\Users\james\cs260\236Project3git\PeriodAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\QMarkAutomaton.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\QMarkAutomaton.cpp.obj: ..\QMarkAutomaton.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/project1.dir/QMarkAutomaton.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/project1.dir/QMarkAutomaton.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\QMarkAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\QMarkAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\QMarkAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\QMarkAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\QMarkAutomaton.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/QMarkAutomaton.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\QMarkAutomaton.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\QMarkAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\QMarkAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\QMarkAutomaton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/QMarkAutomaton.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\QMarkAutomaton.cpp.s /c C:\Users\james\cs236\236Project3\QMarkAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\QMarkAutomaton.cpp.s /c C:\Users\james\cs260\236Project3git\QMarkAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\LeftParenAutomaton.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\LeftParenAutomaton.cpp.obj: ..\LeftParenAutomaton.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/project1.dir/LeftParenAutomaton.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/project1.dir/LeftParenAutomaton.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\LeftParenAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\LeftParenAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\LeftParenAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\LeftParenAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\LeftParenAutomaton.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/LeftParenAutomaton.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\LeftParenAutomaton.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\LeftParenAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\LeftParenAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\LeftParenAutomaton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/LeftParenAutomaton.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\LeftParenAutomaton.cpp.s /c C:\Users\james\cs236\236Project3\LeftParenAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\LeftParenAutomaton.cpp.s /c C:\Users\james\cs260\236Project3git\LeftParenAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\RightParenAutomaton.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\RightParenAutomaton.cpp.obj: ..\RightParenAutomaton.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/project1.dir/RightParenAutomaton.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/project1.dir/RightParenAutomaton.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\RightParenAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\RightParenAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\RightParenAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\RightParenAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\RightParenAutomaton.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/RightParenAutomaton.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\RightParenAutomaton.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\RightParenAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\RightParenAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\RightParenAutomaton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/RightParenAutomaton.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\RightParenAutomaton.cpp.s /c C:\Users\james\cs236\236Project3\RightParenAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\RightParenAutomaton.cpp.s /c C:\Users\james\cs260\236Project3git\RightParenAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\MultiplyAutomaton.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\MultiplyAutomaton.cpp.obj: ..\MultiplyAutomaton.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/project1.dir/MultiplyAutomaton.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/project1.dir/MultiplyAutomaton.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\MultiplyAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\MultiplyAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\MultiplyAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\MultiplyAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\MultiplyAutomaton.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/MultiplyAutomaton.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\MultiplyAutomaton.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\MultiplyAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\MultiplyAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\MultiplyAutomaton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/MultiplyAutomaton.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\MultiplyAutomaton.cpp.s /c C:\Users\james\cs236\236Project3\MultiplyAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\MultiplyAutomaton.cpp.s /c C:\Users\james\cs260\236Project3git\MultiplyAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\AddAutomaton.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\AddAutomaton.cpp.obj: ..\AddAutomaton.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/project1.dir/AddAutomaton.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/project1.dir/AddAutomaton.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\AddAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\AddAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\AddAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\AddAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\AddAutomaton.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/AddAutomaton.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\AddAutomaton.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\AddAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\AddAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\AddAutomaton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/AddAutomaton.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\AddAutomaton.cpp.s /c C:\Users\james\cs236\236Project3\AddAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\AddAutomaton.cpp.s /c C:\Users\james\cs260\236Project3git\AddAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\schemesAutomaton.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\schemesAutomaton.cpp.obj: ..\schemesAutomaton.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/project1.dir/schemesAutomaton.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/project1.dir/schemesAutomaton.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\schemesAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\schemesAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\schemesAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\schemesAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\schemesAutomaton.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/schemesAutomaton.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\schemesAutomaton.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\schemesAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\schemesAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\schemesAutomaton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/schemesAutomaton.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\schemesAutomaton.cpp.s /c C:\Users\james\cs236\236Project3\schemesAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\schemesAutomaton.cpp.s /c C:\Users\james\cs260\236Project3git\schemesAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\FactsAutomaton.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\FactsAutomaton.cpp.obj: ..\FactsAutomaton.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/project1.dir/FactsAutomaton.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/project1.dir/FactsAutomaton.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\FactsAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\FactsAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\FactsAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\FactsAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\FactsAutomaton.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/FactsAutomaton.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\FactsAutomaton.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\FactsAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\FactsAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\FactsAutomaton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/FactsAutomaton.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\FactsAutomaton.cpp.s /c C:\Users\james\cs236\236Project3\FactsAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\FactsAutomaton.cpp.s /c C:\Users\james\cs260\236Project3git\FactsAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\RulesAutomaton.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\RulesAutomaton.cpp.obj: ..\RulesAutomaton.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/project1.dir/RulesAutomaton.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/project1.dir/RulesAutomaton.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\RulesAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\RulesAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\RulesAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\RulesAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\RulesAutomaton.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/RulesAutomaton.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\RulesAutomaton.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\RulesAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\RulesAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\RulesAutomaton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/RulesAutomaton.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\RulesAutomaton.cpp.s /c C:\Users\james\cs236\236Project3\RulesAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\RulesAutomaton.cpp.s /c C:\Users\james\cs260\236Project3git\RulesAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\Queries.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\Queries.cpp.obj: ..\Queries.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/project1.dir/Queries.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/project1.dir/Queries.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Queries.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\Queries.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Queries.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\Queries.cpp
 <<
 
 CMakeFiles\project1.dir\Queries.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/Queries.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\Queries.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\Queries.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\Queries.cpp
 <<
 
 CMakeFiles\project1.dir\Queries.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/Queries.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Queries.cpp.s /c C:\Users\james\cs236\236Project3\Queries.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Queries.cpp.s /c C:\Users\james\cs260\236Project3git\Queries.cpp
 <<
 
 CMakeFiles\project1.dir\IDAutomaton.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\IDAutomaton.cpp.obj: ..\IDAutomaton.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/project1.dir/IDAutomaton.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/project1.dir/IDAutomaton.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\IDAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\IDAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\IDAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\IDAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\IDAutomaton.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/IDAutomaton.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\IDAutomaton.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\IDAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\IDAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\IDAutomaton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/IDAutomaton.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\IDAutomaton.cpp.s /c C:\Users\james\cs236\236Project3\IDAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\IDAutomaton.cpp.s /c C:\Users\james\cs260\236Project3git\IDAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\STRINGAUTOMATON.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\STRINGAUTOMATON.cpp.obj: ..\STRINGAUTOMATON.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/project1.dir/STRINGAUTOMATON.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/project1.dir/STRINGAUTOMATON.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\STRINGAUTOMATON.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\STRINGAUTOMATON.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\STRINGAUTOMATON.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\STRINGAUTOMATON.cpp
 <<
 
 CMakeFiles\project1.dir\STRINGAUTOMATON.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/STRINGAUTOMATON.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\STRINGAUTOMATON.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\STRINGAUTOMATON.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\STRINGAUTOMATON.cpp
 <<
 
 CMakeFiles\project1.dir\STRINGAUTOMATON.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/STRINGAUTOMATON.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\STRINGAUTOMATON.cpp.s /c C:\Users\james\cs236\236Project3\STRINGAUTOMATON.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\STRINGAUTOMATON.cpp.s /c C:\Users\james\cs260\236Project3git\STRINGAUTOMATON.cpp
 <<
 
 CMakeFiles\project1.dir\InvalidStringAutomaton.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\InvalidStringAutomaton.cpp.obj: ..\InvalidStringAutomaton.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/project1.dir/InvalidStringAutomaton.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/project1.dir/InvalidStringAutomaton.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\InvalidStringAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\InvalidStringAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\InvalidStringAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\InvalidStringAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\InvalidStringAutomaton.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/InvalidStringAutomaton.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\InvalidStringAutomaton.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\InvalidStringAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\InvalidStringAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\InvalidStringAutomaton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/InvalidStringAutomaton.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\InvalidStringAutomaton.cpp.s /c C:\Users\james\cs236\236Project3\InvalidStringAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\InvalidStringAutomaton.cpp.s /c C:\Users\james\cs260\236Project3git\InvalidStringAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\CommentAutomaton.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\CommentAutomaton.cpp.obj: ..\CommentAutomaton.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/project1.dir/CommentAutomaton.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/project1.dir/CommentAutomaton.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\CommentAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\CommentAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\CommentAutomaton.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\CommentAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\CommentAutomaton.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/CommentAutomaton.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\CommentAutomaton.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\CommentAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\CommentAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\CommentAutomaton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/CommentAutomaton.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\CommentAutomaton.cpp.s /c C:\Users\james\cs236\236Project3\CommentAutomaton.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\CommentAutomaton.cpp.s /c C:\Users\james\cs260\236Project3git\CommentAutomaton.cpp
 <<
 
 CMakeFiles\project1.dir\BlockCommentAutomata.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\BlockCommentAutomata.cpp.obj: ..\BlockCommentAutomata.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/project1.dir/BlockCommentAutomata.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/project1.dir/BlockCommentAutomata.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\BlockCommentAutomata.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\BlockCommentAutomata.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\BlockCommentAutomata.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\BlockCommentAutomata.cpp
 <<
 
 CMakeFiles\project1.dir\BlockCommentAutomata.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/BlockCommentAutomata.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\BlockCommentAutomata.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\BlockCommentAutomata.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\BlockCommentAutomata.cpp
 <<
 
 CMakeFiles\project1.dir\BlockCommentAutomata.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/BlockCommentAutomata.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\BlockCommentAutomata.cpp.s /c C:\Users\james\cs236\236Project3\BlockCommentAutomata.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\BlockCommentAutomata.cpp.s /c C:\Users\james\cs260\236Project3git\BlockCommentAutomata.cpp
 <<
 
 CMakeFiles\project1.dir\invalidComment.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\invalidComment.cpp.obj: ..\invalidComment.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/project1.dir/invalidComment.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/project1.dir/invalidComment.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\invalidComment.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\invalidComment.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\invalidComment.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\invalidComment.cpp
 <<
 
 CMakeFiles\project1.dir\invalidComment.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/invalidComment.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\invalidComment.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\invalidComment.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\invalidComment.cpp
 <<
 
 CMakeFiles\project1.dir\invalidComment.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/invalidComment.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\invalidComment.cpp.s /c C:\Users\james\cs236\236Project3\invalidComment.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\invalidComment.cpp.s /c C:\Users\james\cs260\236Project3git\invalidComment.cpp
 <<
 
 CMakeFiles\project1.dir\Rule.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\Rule.cpp.obj: ..\Rule.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/project1.dir/Rule.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/project1.dir/Rule.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Rule.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\Rule.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Rule.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\Rule.cpp
 <<
 
 CMakeFiles\project1.dir\Rule.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/Rule.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\Rule.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\Rule.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\Rule.cpp
 <<
 
 CMakeFiles\project1.dir\Rule.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/Rule.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Rule.cpp.s /c C:\Users\james\cs236\236Project3\Rule.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Rule.cpp.s /c C:\Users\james\cs260\236Project3git\Rule.cpp
 <<
 
 CMakeFiles\project1.dir\Predicate.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\Predicate.cpp.obj: ..\Predicate.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/project1.dir/Predicate.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/project1.dir/Predicate.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Predicate.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\Predicate.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Predicate.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\Predicate.cpp
 <<
 
 CMakeFiles\project1.dir\Predicate.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/Predicate.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\Predicate.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\Predicate.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\Predicate.cpp
 <<
 
 CMakeFiles\project1.dir\Predicate.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/Predicate.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Predicate.cpp.s /c C:\Users\james\cs236\236Project3\Predicate.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Predicate.cpp.s /c C:\Users\james\cs260\236Project3git\Predicate.cpp
 <<
 
 CMakeFiles\project1.dir\Parameter.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\Parameter.cpp.obj: ..\Parameter.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/project1.dir/Parameter.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/project1.dir/Parameter.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Parameter.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\Parameter.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Parameter.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\Parameter.cpp
 <<
 
 CMakeFiles\project1.dir\Parameter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/Parameter.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\Parameter.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\Parameter.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\Parameter.cpp
 <<
 
 CMakeFiles\project1.dir\Parameter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/Parameter.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Parameter.cpp.s /c C:\Users\james\cs236\236Project3\Parameter.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Parameter.cpp.s /c C:\Users\james\cs260\236Project3git\Parameter.cpp
 <<
 
 CMakeFiles\project1.dir\Header.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\Header.cpp.obj: ..\Header.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/project1.dir/Header.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/project1.dir/Header.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Header.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\Header.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Header.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\Header.cpp
 <<
 
 CMakeFiles\project1.dir\Header.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/Header.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\Header.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\Header.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\Header.cpp
 <<
 
 CMakeFiles\project1.dir\Header.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/Header.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Header.cpp.s /c C:\Users\james\cs236\236Project3\Header.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Header.cpp.s /c C:\Users\james\cs260\236Project3git\Header.cpp
 <<
 
 CMakeFiles\project1.dir\Relation.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\Relation.cpp.obj: ..\Relation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/project1.dir/Relation.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/project1.dir/Relation.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Relation.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\Relation.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Relation.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\Relation.cpp
 <<
 
 CMakeFiles\project1.dir\Relation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/Relation.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\Relation.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\Relation.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\Relation.cpp
 <<
 
 CMakeFiles\project1.dir\Relation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/Relation.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Relation.cpp.s /c C:\Users\james\cs236\236Project3\Relation.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Relation.cpp.s /c C:\Users\james\cs260\236Project3git\Relation.cpp
 <<
 
 CMakeFiles\project1.dir\Tuple.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\Tuple.cpp.obj: ..\Tuple.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/project1.dir/Tuple.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/project1.dir/Tuple.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Tuple.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\Tuple.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Tuple.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\Tuple.cpp
 <<
 
 CMakeFiles\project1.dir\Tuple.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/Tuple.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\Tuple.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\Tuple.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\Tuple.cpp
 <<
 
 CMakeFiles\project1.dir\Tuple.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/Tuple.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Tuple.cpp.s /c C:\Users\james\cs236\236Project3\Tuple.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Tuple.cpp.s /c C:\Users\james\cs260\236Project3git\Tuple.cpp
 <<
 
 CMakeFiles\project1.dir\Database.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\Database.cpp.obj: ..\Database.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/project1.dir/Database.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/project1.dir/Database.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Database.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\Database.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Database.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\Database.cpp
 <<
 
 CMakeFiles\project1.dir\Database.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/Database.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\Database.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\Database.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\Database.cpp
 <<
 
 CMakeFiles\project1.dir\Database.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/Database.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Database.cpp.s /c C:\Users\james\cs236\236Project3\Database.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Database.cpp.s /c C:\Users\james\cs260\236Project3git\Database.cpp
 <<
 
 CMakeFiles\project1.dir\Interpreter.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\Interpreter.cpp.obj: ..\Interpreter.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/project1.dir/Interpreter.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/project1.dir/Interpreter.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Interpreter.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\Interpreter.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Interpreter.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\Interpreter.cpp
 <<
 
 CMakeFiles\project1.dir\Interpreter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/Interpreter.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\Interpreter.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\Interpreter.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\Interpreter.cpp
 <<
 
 CMakeFiles\project1.dir\Interpreter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/Interpreter.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Interpreter.cpp.s /c C:\Users\james\cs236\236Project3\Interpreter.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Interpreter.cpp.s /c C:\Users\james\cs260\236Project3git\Interpreter.cpp
 <<
 
 CMakeFiles\project1.dir\Parser.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\Parser.cpp.obj: ..\Parser.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/project1.dir/Parser.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/project1.dir/Parser.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Parser.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\Parser.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\Parser.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\Parser.cpp
 <<
 
 CMakeFiles\project1.dir\Parser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/Parser.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\Parser.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\Parser.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\Parser.cpp
 <<
 
 CMakeFiles\project1.dir\Parser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/Parser.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Parser.cpp.s /c C:\Users\james\cs236\236Project3\Parser.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\Parser.cpp.s /c C:\Users\james\cs260\236Project3git\Parser.cpp
 <<
 
 CMakeFiles\project1.dir\DatalogProgram.cpp.obj: CMakeFiles\project1.dir\flags.make
 CMakeFiles\project1.dir\DatalogProgram.cpp.obj: ..\DatalogProgram.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/project1.dir/DatalogProgram.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/project1.dir/DatalogProgram.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\DatalogProgram.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs236\236Project3\DatalogProgram.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\project1.dir\DatalogProgram.cpp.obj /FdCMakeFiles\project1.dir\ /FS -c C:\Users\james\cs260\236Project3git\DatalogProgram.cpp
 <<
 
 CMakeFiles\project1.dir\DatalogProgram.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/project1.dir/DatalogProgram.cpp.i"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\project1.dir\DatalogProgram.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs236\236Project3\DatalogProgram.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\james\cs260\236Project3git\DatalogProgram.cpp
 <<
 
 CMakeFiles\project1.dir\DatalogProgram.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/project1.dir/DatalogProgram.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\DatalogProgram.cpp.s /c C:\Users\james\cs236\236Project3\DatalogProgram.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\project1.dir\DatalogProgram.cpp.s /c C:\Users\james\cs260\236Project3git\DatalogProgram.cpp
 <<
 
 # Object files for target project1
@@ -741,9 +741,9 @@ project1.exe: CMakeFiles\project1.dir\Parser.cpp.obj
 project1.exe: CMakeFiles\project1.dir\DatalogProgram.cpp.obj
 project1.exe: CMakeFiles\project1.dir\build.make
 project1.exe: CMakeFiles\project1.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Linking CXX executable project1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Linking CXX executable project1.exe"
 	"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\project1.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\project1.dir\objects1.rsp @<<
- /out:project1.exe /implib:project1.lib /pdb:C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\project1.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
+ /out:project1.exe /implib:project1.lib /pdb:C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\project1.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
 
 # Rule to build all files generated by this target.
@@ -756,6 +756,6 @@ CMakeFiles\project1.dir\clean:
 .PHONY : CMakeFiles\project1.dir\clean
 
 CMakeFiles\project1.dir\depend:
-	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\james\cs236\236Project3 C:\Users\james\cs236\236Project3 C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles\project1.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\james\cs260\236Project3git C:\Users\james\cs260\236Project3git C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles\project1.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles\project1.dir\depend
 

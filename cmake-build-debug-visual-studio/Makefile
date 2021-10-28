@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\james\cs236\236Project3
+CMAKE_SOURCE_DIR = C:\Users\james\cs260\236Project3git
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio
+CMAKE_BINARY_DIR = C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -84,9 +84,9 @@ edit_cache\fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\james\cs236\236Project3\cmake-build-debug-visual-studio\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\james\cs260\236Project3git\cmake-build-debug-visual-studio\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
