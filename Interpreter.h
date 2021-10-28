@@ -22,6 +22,7 @@ public:
     Relation* doQuery(Predicate* query);
     std::string queryString(Predicate* query);
     void doQueries();
+    void run();
 
 };
 
