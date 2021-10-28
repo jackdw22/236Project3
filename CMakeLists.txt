@@ -1,0 +1,72 @@
+cmake_minimum_required(VERSION 3.16.3)
+project(project1)
+
+set(CMAKE_CXX_STANDARD 14)
+
+include_directories(.)
+
+add_executable(project1
+        Automaton.h
+        ColonAutomaton.cpp
+        ColonAutomaton.h
+        ColonDashAutomaton.cpp
+        ColonDashAutomaton.h
+        Lexer.cpp
+        Lexer.h
+        main.cpp
+        Token.cpp
+        Token.h
+        CommaAutomaton.cpp
+        CommaAutomaton.h
+        PeriodAutomaton.cpp
+        PeriodAutomaton.h
+        QMarkAutomaton.cpp
+        QMarkAutomaton.h
+        LeftParenAutomaton.cpp
+        LeftParenAutomaton.h
+        RightParenAutomaton.cpp
+        RightParenAutomaton.h
+        MultiplyAutomaton.cpp
+        MultiplyAutomaton.h
+        AddAutomaton.cpp
+        AddAutomaton.h
+        schemesAutomaton.cpp
+        schemesAutomaton.h
+        FactsAutomaton.cpp
+        FactsAutomaton.h
+        RulesAutomaton.cpp
+        RulesAutomaton.h
+        Queries.cpp
+        Queries.h
+        IDAutomaton.cpp
+        IDAutomaton.h
+        STRINGAUTOMATON.cpp
+        STRINGAUTOMATON.h
+        InvalidStringAutomaton.cpp
+        InvalidStringAutomaton.h
+        CommentAutomaton.cpp
+        CommentAutomaton.h
+        BlockCommentAutomata.cpp
+        BlockCommentAutomata.h
+        invalidComment.cpp
+        invalidComment.h
+        Rule.cpp
+        Rule.h
+        Predicate.cpp
+        Predicate.h
+        Parameter.cpp
+        Parameter.h
+        Header.h
+        Header.cpp
+        Relation.cpp
+        Relation.h
+        Tuple.cpp
+        Tuple.h
+        Database.cpp
+        Database.h
+        Interpreter.cpp
+        interpreter.h
+        Parser.cpp
+        Parser.h
+        DatalogProgram.cpp
+        DatalogProgram.h)

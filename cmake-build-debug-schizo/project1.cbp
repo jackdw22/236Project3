@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="project1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project1">
+				<Option output="/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo/project1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.hdEnjsrOUt/."/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 project1"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project1/fast">
+				<Option output="/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo/project1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/tmp/tmp.hdEnjsrOUt/."/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 project1/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.hdEnjsrOUt/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/AddAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/AddAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/Automaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/BlockCommentAutomata.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/BlockCommentAutomata.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/ColonAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/ColonAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/ColonDashAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/ColonDashAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/CommaAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/CommaAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/CommentAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/CommentAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/DatalogProgram.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/DatalogProgram.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/FactsAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/FactsAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/IDAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/IDAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/InvalidStringAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/InvalidStringAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/LeftParenAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/LeftParenAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/Lexer.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/Lexer.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/MultiplyAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/MultiplyAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/Parameter.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/Parameter.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/Parser.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/Parser.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/PeriodAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/PeriodAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/Predicate.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/Predicate.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/QMarkAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/QMarkAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/Queries.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/Queries.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/RightParenAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/RightParenAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/Rule.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/Rule.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/RulesAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/RulesAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/STRINGAUTOMATON.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/STRINGAUTOMATON.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/Token.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/Token.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/invalidComment.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/invalidComment.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/main.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/schemesAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/schemesAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.hdEnjsrOUt/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
