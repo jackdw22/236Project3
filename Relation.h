@@ -22,7 +22,7 @@ public:
     std::string toString(std::vector<std::string> order, std::map<std::string, int> location);
     Relation* select(Relation* relation, Predicate* &query, int count);
     Relation* selectDuplicates(Relation* relation, Predicate* &query);
-    Relation* project(Relation* relation, Predicate* &query, std::map<std::string, int> variables);
+    Relation* project(Relation* relation, Predicate* &query, std::map<std::string, int> variables, std::vector<std::string> order);
 private:
 
 

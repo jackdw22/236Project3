@@ -82,7 +82,6 @@ Relation* Interpreter::doQuery(Predicate* query) {
 
     for (int i = 0; i < static_cast<int>(query->parameters.size()); i++){
         if(query->parameters.at(i)->isConstant() == false){
-            variables.insert({query->parameters.at(i)->getParameter(), i});
             order.push_back(query->parameters.at(i)->getParameter());
             countVariables++;
         }
@@ -119,8 +118,13 @@ Relation* Interpreter::doQuery(Predicate* query) {
         }
 
         if(countVariables != 0){
+            for (int i = 0; i < static_cast<int>(query->parameters.size()); i++){
+                if(query->parameters.at(i)->isConstant() == false){
+                    variables.insert({query->parameters.at(i)->getParameter(), i});
+                }
+            }
             //std::cout << query->parameters.size();
-            outputRelation = outputRelation->project(outputRelation, query, variables);
+            outputRelation = outputRelation->project(outputRelation, query, variables, order);
         }
         return outputRelation;
 
