@@ -81,8 +81,16 @@ Relation* Interpreter::doQuery(Predicate* query) {
     int countVariables = 0;
 
     for (int i = 0; i < static_cast<int>(query->parameters.size()); i++){
+        int isThere = 0;
         if(query->parameters.at(i)->isConstant() == false){
-            order.push_back(query->parameters.at(i)->getParameter());
+            for(int j = 0; j < static_cast<int>(order.size()); j++){
+                if (query->parameters.at(i)->getParameter() == order.at(j)){
+                    isThere++;
+                }
+            }
+            if (isThere == 0){
+                order.push_back(query->parameters.at(i)->getParameter());
+            }
             countVariables++;
         }
     }
