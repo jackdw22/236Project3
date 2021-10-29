@@ -10,6 +10,10 @@ C:/Users/james/cs260/236Project3git/Automaton.h
 Token.h
 C:/Users/james/cs260/236Project3git/Token.h
 
+C:/Users/james/cs260/236Project3git/Database.cpp
+Database.h
+C:/Users/james/cs260/236Project3git/Database.h
+
 C:/Users/james/cs260/236Project3git/Database.h
 map
 -
@@ -110,6 +114,10 @@ C:/Users/james/cs260/236Project3git/Lexer.h
 set
 -
 
+C:/Users/james/cs260/236Project3git/Relation.cpp
+Relation.h
+C:/Users/james/cs260/236Project3git/Relation.h
+
 C:/Users/james/cs260/236Project3git/Relation.h
 Header.h
 C:/Users/james/cs260/236Project3git/Header.h
@@ -149,4 +157,24 @@ vector
 -
 string
 -
+
+C:/Users/james/cs260/236Project3git/main.cpp
+Lexer.h
+C:/Users/james/cs260/236Project3git/Lexer.h
+Parser.h
+C:/Users/james/cs260/236Project3git/Parser.h
+Relation.h
+C:/Users/james/cs260/236Project3git/Relation.h
+string
+-
+vector
+-
+iostream
+-
+fstream
+-
+sstream
+-
+Interpreter.h
+C:/Users/james/cs260/236Project3git/Interpreter.h
 

@@ -121,8 +121,10 @@ Relation* Interpreter::doQuery(Predicate* query) {
             countSelects++;
         }
         query = queryCopy;
+        int count = 0;
         for (int i = 0; i < countDuplicates; i++) {
-            outputRelation  = outputRelation->selectDuplicates(outputRelation, query);
+            outputRelation  = outputRelation->selectDuplicates(outputRelation, query, count);
+            count++;
         }
 
         if(countVariables != 0){

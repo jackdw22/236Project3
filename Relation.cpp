@@ -63,12 +63,12 @@ Relation* Relation::select(Relation *relation, Predicate *&query, int count) {
     return newRelation;
 }
 
-Relation* Relation::selectDuplicates(Relation *relation, Predicate *&query) {
+Relation* Relation::selectDuplicates(Relation *relation, Predicate *&query, int count) {
     int index1;
     int index2;
     bool found = false;
     Relation* newRelation = new Relation(relation->name, relation->header);
-    for (int i = 0; i < static_cast<int>(query->parameters.size()); i++){
+    for (int i = 0 + count; i < static_cast<int>(query->parameters.size()); i++){
         if (query->parameters.at(i)->isConstant() == false){
             for (int j = i + 1; j <static_cast<int>(query->parameters.size()); j++){
                 if(query->parameters.at(j)->getParameter() == query->parameters.at(i)->getParameter()){
