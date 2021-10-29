@@ -104,7 +104,7 @@ Relation* Relation::project(Relation *relation, Predicate *&query, std::map<std:
     for (Tuple t : relation->tuples){
         Tuple newTuple;
         for (auto itr = variables.begin(); itr != variables.end(); itr++){
-            for (int i = 0; i < static_cast<int>(header->values.size()); i++) {
+            for (int i = 0; i < static_cast<int>(order.size()); i++) {
                 newTuple.values.push_back(t.values.at(variables.at(order.at(i))));
             }
         }
