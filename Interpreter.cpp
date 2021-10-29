@@ -113,6 +113,7 @@ Relation* Interpreter::doQuery(Predicate* query) {
             }
         }
     }
+
     for (auto itr = database->data.find(qName); itr != database->data.end(); itr++) {
         Relation* outputRelation = new Relation(itr->first, itr->second->header);
         outputRelation = itr->second;
@@ -120,7 +121,9 @@ Relation* Interpreter::doQuery(Predicate* query) {
             outputRelation = outputRelation->select(outputRelation, query, countSelects);
             countSelects++;
         }
-        query = queryCopy;
+        if (countDuplicates == countVariables || countDuplicates > countVariables){
+            countDuplicates = countVariables - 1;
+        }
         int count = 0;
         for (int i = 0; i < countDuplicates; i++) {
             outputRelation  = outputRelation->selectDuplicates(outputRelation, query, count);
