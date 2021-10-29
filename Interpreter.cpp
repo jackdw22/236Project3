@@ -94,8 +94,6 @@ Relation* Interpreter::doQuery(Predicate* query) {
             countVariables++;
         }
     }
-    Predicate* queryCopy = new Predicate(query->namePredicate, query->type);
-    queryCopy = query;
     int countConstants = 0;
     int countSelects = 0;
     int countDuplicates = 0;
