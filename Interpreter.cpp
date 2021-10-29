@@ -140,7 +140,6 @@ std::string Interpreter::queryString(Predicate* query) {
         if(query->parameters.at(i)->isConstant() == false){
             isVariable = true;
             order.push_back(query->parameters.at(i)->getParameter());
-            location.insert({query->parameters.at(i)->getParameter(), i});
 
         }
         output += query->parameters.at(i)->getParameter();
@@ -150,6 +149,11 @@ std::string Interpreter::queryString(Predicate* query) {
     output += ")? ";
     Relation* relation;
     relation = doQuery(query);
+    for (int i = 0; i < static_cast<int>(relation->header->values.size()); i++){
+
+        location.insert({relation->header->values.at(i), i});
+
+        }
     if (relation->tuples.size() > 0){
         output += "Yes(";
         output += std::to_string(relation->tuples.size());
