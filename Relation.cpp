@@ -9,24 +9,28 @@ Relation::Relation(std::string name, Header* header) {
     this->header = header;
 }
 
-std::string Relation::toString() {
+std::string Relation::toString(std::vector<std::string> order, std::map<std::string, int> location) {
     std::string output = "";
     // std::cout << "in to string" << std::endl;
-    for (Tuple t : tuples){
-        // std::cout << "in to tuple loop" << std::endl;
-        output += "  ";
-        for (int i = 0; i < static_cast<int>(header->values.size()); i++){
-            output += header->values.at(i);
-            output += "=";
-            output += t.values.at(i);
-            output += ", ";
+        for (Tuple t : tuples){
+            // std::cout << "in to tuple loop" << std::endl;
+
+            output += "  ";
+            for (int i = 0; i < static_cast<int>(header->values.size()); i++){
+                output += order.at(i);
+                output += "=";
+                output += t.values.at(location.at(order.at(i)));
+                output += ", ";
+            }
+            output.pop_back();
+            output.pop_back();
+            output += "\n";
         }
-        output.pop_back();
-        output.pop_back();
-        output += "\n";
+        return output;
     }
-    return output;
-}
+
+
+
 
 void Relation::addTuple(Tuple tuple) {
     tuples.insert(tuple);

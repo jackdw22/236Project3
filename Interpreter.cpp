@@ -132,11 +132,16 @@ Relation* Interpreter::doQuery(Predicate* query) {
 std::string Interpreter::queryString(Predicate* query) {
     std::string output = "";
     bool isVariable = false;
+    std::vector<std::string> order;
+    std::map<std::string, int> location;
     output += query->namePredicate;
     output += '(';
     for (int i = 0; i < static_cast<int>(query->parameters.size()); i++){
         if(query->parameters.at(i)->isConstant() == false){
             isVariable = true;
+            order.push_back(query->parameters.at(i)->getParameter());
+            location.insert({query->parameters.at(i)->getParameter(), i});
+
         }
         output += query->parameters.at(i)->getParameter();
         output += ',';
@@ -150,7 +155,7 @@ std::string Interpreter::queryString(Predicate* query) {
         output += std::to_string(relation->tuples.size());
         output += ")\n";
         if (isVariable == true){
-            output += relation->toString();
+            output += relation->toString(order, location);
         }
     }else{
         output += "No";
